@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Main-Class: com.ibk.spring.cloud.msvc.msvcpayments.MsvcPaymentsApplicati
+ on
+Class-Path: jaxb-core-4.0.3.jar lombok-1.18.28.jar bcpkix-jdk18on-1.73.j
+ ar spring-cloud-starter-openfeign-4.0.4.jar jakarta.xml.bind-api-4.0.0.
+ jar spring-aop-6.0.11.jar spring-boot-starter-validation-3.1.3.jar micr
+ ometer-commons-1.11.3.jar spring-boot-starter-json-3.1.3.jar jakarta.pe
+ rsistence-api-3.1.0.jar angus-activation-2.0.1.jar spring-boot-starter-
+ aop-3.1.3.jar spring-context-6.0.11.jar spring-jdbc-6.0.11.jar byte-bud
+ dy-1.14.6.jar bcprov-jdk18on-1.73.jar spring-core-6.0.11.jar spring-jcl
+ -6.0.11.jar spring-orm-6.0.11.jar logback-core-1.4.11.jar jul-to-slf4j-
+ 2.0.7.jar feign-core-12.4.jar tomcat-embed-el-10.1.12.jar jakarta.trans
+ action-api-2.0.1.jar jackson-databind-2.15.2.jar spring-cloud-starter-4
+ .0.4.jar istack-commons-runtime-4.1.2.jar jakarta.activation-api-2.1.2.
+ jar spring-security-rsa-1.0.12.RELEASE.jar feign-form-spring-3.8.0.jar 
+ commons-io-2.11.0.jar snakeyaml-1.33.jar log4j-to-slf4j-2.20.0.jar jack
+ son-module-parameter-names-2.15.2.jar mysql-connector-j-8.0.33.jar spri
+ ng-beans-6.0.11.jar spring-data-commons-3.1.3.jar jaxb-runtime-4.0.3.ja
+ r spring-boot-autoconfigure-3.1.3.jar spring-boot-starter-jdbc-3.1.3.ja
+ r jackson-datatype-jsr310-2.15.2.jar spring-aspects-6.0.11.jar spring-b
+ oot-starter-data-jpa-3.1.3.jar hibernate-validator-8.0.1.Final.jar clas
+ smate-1.5.1.jar aspectjweaver-1.9.20.jar tomcat-embed-websocket-10.1.12
+ .jar jakarta.annotation-api-2.1.1.jar hibernate-core-6.2.7.Final.jar ja
+ ckson-datatype-jdk8-2.15.2.jar commons-fileupload-1.5.jar spring-cloud-
+ context-4.0.4.jar spring-cloud-commons-4.0.4.jar spring-security-crypto
+ -6.1.3.jar jackson-core-2.15.2.jar spring-cloud-openfeign-core-4.0.4.ja
+ r spring-boot-starter-tomcat-3.1.3.jar spring-web-6.0.11.jar antlr4-run
+ time-4.10.1.jar spring-boot-starter-web-3.1.3.jar logback-classic-1.4.1
+ 1.jar jakarta.validation-api-3.0.2.jar slf4j-api-2.0.7.jar feign-form-3
+ .8.0.jar micrometer-observation-1.11.3.jar HikariCP-5.0.1.jar spring-we
+ bmvc-6.0.11.jar jandex-3.0.5.jar jakarta.inject-api-2.0.1.jar log4j-api
+ -2.20.0.jar jboss-logging-3.5.3.Final.jar spring-tx-6.0.11.jar txw2-4.0
+ .3.jar spring-expression-6.0.11.jar jackson-annotations-2.15.2.jar hibe
+ rnate-commons-annotations-6.0.6.Final.jar feign-slf4j-12.4.jar spring-b
+ oot-3.1.3.jar spring-boot-starter-logging-3.1.3.jar tomcat-embed-core-1
+ 0.1.12.jar spring-boot-starter-3.1.3.jar bcutil-jdk18on-1.73.jar spring
+ -data-jpa-3.1.3.jar
+
